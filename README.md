@@ -24,6 +24,10 @@ A-players.
 We are looking for full stack software developers. You may master either back-end or front-end, but you need to have 
 understanding on the layers of the stack.
 
+### Job Descriptions related to assignments
+- [Front-End Developer](Front-End-Developer.md)
+- [Back-End Developer](Back-End-Developer.md)
+
 ### The Task
 On the following link you will find the complete assignments. It combines Back-End and/or Front-End details. 
 It is up to you what to finish or skip. Please do not spend more than 10 hours on this task. Done is better than 
