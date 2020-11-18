@@ -80,7 +80,7 @@ so we can review the submission.
 However, be sure to include a README.md telling how it works.
 
 ## Please contact us if you have any question.
-info@polazak.com or +381 63 471 119 (work days 09-17h)
+hr@polazak.com
 
 [MVP]:<https://en.wikipedia.org/wiki/Minimum_viable_product>
 [SLA]:<https://en.wikipedia.org/wiki/Service-level_agreement>

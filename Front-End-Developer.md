@@ -52,6 +52,6 @@ Steps:
 5. get an offer letter (1 min) 🙂
 
 ## Please contact us if you have any question.
-info@polazak.com or +381 63 471 119 (work days 09-17h)
+hr@polazak.com
 
 [whywastefewhours]:<https://workplace.stackexchange.com/questions/18696/given-a-homework-tasks-on-a-job-interview>

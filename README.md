@@ -36,7 +36,7 @@ perfect.
 [Job Interview Assignment for Full Stack, Back-End and Front-End Developer position](basic-shop.job-interview-assignment.md)
 
 ## Please contact us if you have any question.
-info@polazak.com or +381 63 471 119 (work days 09-17h)
+hr@polazak.com
 
 
 [whywastefewhours]:<https://workplace.stackexchange.com/questions/18696/given-a-homework-tasks-on-a-job-interview>
